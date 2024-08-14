@@ -1,4 +1,4 @@
-# NAME: Proxy
+# NAME: Proxy list
 # AUTHOR: birdset
 # REPO: https://github.com/birdset/shadowrocket-config
 # UPDATED: 2024-08-14 10:02:00
@@ -56,7 +56,6 @@ DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,pornhub.com
@@ -66,8 +65,5 @@ DOMAIN-KEYWORD,kahoot
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,deezer
-DDOMAIN-KEYWORD,ggpht
-DOMAIN-KEYWORD,ytimg
-DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,xvideos
 DOMAIN-KEYWORD,pornhub
