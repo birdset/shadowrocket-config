@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,browserleaks.com
-#DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,dyson.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,cdninstagram.com
